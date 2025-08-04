@@ -2,7 +2,7 @@
 
 ## Research Paper Overview
 
-**Authors:** Harshith Vaddiparthy, Hritankar Sarkar  
+**Author:** Harshith Vaddiparthy  
 **Status:** In Development  
 **Target:** arXiv Submission
 

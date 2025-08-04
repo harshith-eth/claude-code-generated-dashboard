@@ -74,8 +74,7 @@
 
 **Title:** "Autonomous Code Generation Without Human Oversight: An Empirical Analysis of Claude Code's --dangerously-skip-permissions Command"
 
-**Lead Researcher:** Harshith Vaddiparthy (🇺🇸 O-1 Visa Applicant - Extraordinary Ability in Computer Science)  
-**Co-Researcher:** Hritankar Sarkar  
+**Lead Researcher:** Harshith Vaddiparthy  
 **Research Type:** Original Empirical Analysis - First of its Kind Globally  
 **Publication Status:** Groundbreaking Research for Academic Submission  
 **Impact:** Paradigm-Shifting Evidence for Future of Software Engineering
@@ -438,7 +437,7 @@ If you use this research in your academic work, please cite:
 ```bibtex
 @article{vaddiparthy2025autonomous,
   title={Autonomous Code Generation Without Human Oversight: An Empirical Analysis of Claude Code's --dangerously-skip-permissions Command},
-  author={Vaddiparthy, Harshith and Sarkar, Hritankar},
+  author={Vaddiparthy, Harshith},
   journal={arXiv preprint},
   year={2025},
   note={Available at: https://github.com/harshith-eth/autonomous-code-generation-research}
@@ -513,7 +512,7 @@ MIT License - See [LICENSE](LICENSE) for details.
 
 ## 🏆 RECOGNITION & EXTRAORDINARY ACHIEVEMENT
 
-**🇺🇸 O-1 VISA EVIDENCE:** This research demonstrates extraordinary ability in computer science through:
+**🌍 GLOBAL RESEARCH IMPACT:** This research demonstrates exceptional innovation in computer science through:
 - **🥇 World-first empirical analysis** of autonomous AI development capabilities
 - **📊 Quantifiable innovation** with measurable performance breakthroughs  
 - **🌍 Global significance** addressing fundamental questions in AI and software engineering
