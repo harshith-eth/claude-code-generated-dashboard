@@ -3,7 +3,7 @@
 
 **Research Paper:** "Autonomous Code Generation Without Human Oversight: An Empirical Analysis of Claude Code's --dangerously-skip-permissions Command"
 
-**Authors:** Harshith Vaddiparthy, Hritankar Sarkar  
+**Authors:** Harshith Vaddiparthy  
 **Date:** August 5, 2025  
 **Experiment ID:** REAL-AUTO-20250805  
 

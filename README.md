@@ -11,7 +11,7 @@
 
 **Title:** "Autonomous Code Generation Without Human Oversight: An Empirical Analysis of Claude Code's --dangerously-skip-permissions Command"
 
-**Authors:** Harshith Vaddiparthy, Hritankar Sarkar  
+**Authors:** Harshith Vaddiparthy  
 **Institution:** Independent Research  
 **Status:** arXiv Submission  
 
@@ -161,7 +161,7 @@ If you use this research in your work, please cite:
 ```bibtex
 @article{vaddiparthy2025autonomous,
   title={Autonomous Code Generation Without Human Oversight: An Empirical Analysis of Claude Code's --dangerously-skip-permissions Command},
-  author={Vaddiparthy, Harshith and Sarkar, Hritankar},
+  author={Vaddiparthy, Harshith},
   journal={arXiv preprint},
   year={2025}
 }
